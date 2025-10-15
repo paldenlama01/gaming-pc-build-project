@@ -1,0 +1,19 @@
+Gaming PC Build Project 
+
+CPU: AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor
+CPU Cooler: Arctic Freezer 34 eSports Duo
+Motherboard: Gigabyte B550M DS3H Micro ATX AM4
+Memory: 16 GB (2 x 8 GB) DDR4-3600 CL16
+Storage: Samsung 2 TB M.2 NVMe Internal SSD
+GPU: Zotac GeForce RTX 3060 Twin Edge OC 12 GB
+Case: Corsair iCUE 220T RGB Airflow Mid-Tower
+Power Supply: 650 W 80+ Bronze Certified Fully Modular ATX
+Operating System: Windows 11 Pro 64-bit
+
+Performance Benchmarks
+- Cinebench R23: 9,740 (Multi-Core), 1,443 (Single-Core)
+- 3DMark Solar Bay Extreme (DX12): 8,236 Score, 57.6 FPS
+- CrystalDiskMark: 3,538 MB/s Read, 1,654 MB/s Write
+
+Notes
+System built and tested for stability, thermals, and driver compatibility.
